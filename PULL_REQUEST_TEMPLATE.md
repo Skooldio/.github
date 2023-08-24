@@ -6,12 +6,12 @@
 
 ## Check list
 <!--Put the 'X' inside the [] to check. Most of the time, everything should be checked.-->
-- [] I have self-reviewed my code.
-- [] I have commented on my code, particularly in the hard-to-understand area.
-- [] New and existing unit tests pass locally with my change.
-- [] I have tagged a reviewer for this PR.
-- [] (Should Be) I have NOT committed the modified environment/config file(s) to this PR.
-- [] (Backend) I have added the migration script(s).
+- [ ] I have self-reviewed my code.
+- [ ] I have commented on my code, particularly in the hard-to-understand area.
+- [ ] New and existing unit tests pass locally with my change.
+- [ ] I have tagged a reviewer for this PR.
+- [ ] (Should Be) I have NOT committed the modified environment/config file(s) to this PR.
+- [ ] (Backend) I have added the migration script(s).
 
 ## [optional] Additional configuration/environment
 
