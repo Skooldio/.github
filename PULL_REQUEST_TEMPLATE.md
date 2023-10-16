@@ -4,7 +4,7 @@
 ## Description
 <!--What does this PR do? What is being changed, added, or removed? Does it introduce any breaking changes?-->
 
-## Check list
+## Checklist
 <!--Put the 'X' inside the [] to check. Most of the time, everything should be checked.-->
 - [ ] I have self-reviewed my code.
 - [ ] I have commented on my code, particularly in the hard-to-understand area.
@@ -22,4 +22,4 @@
 <!--Add your test screenshot(s) here-->
 
 ## [optional] Remark
-<!--Further informations about this PR-->
+<!--Further information about this PR-->
