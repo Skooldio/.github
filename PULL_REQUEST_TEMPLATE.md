@@ -22,7 +22,7 @@
 <!--Add your test screenshot(s) here-->
 
 ## Reviewer
-<!--Person who needs to review your PR (Unti we paid.)-->
+<!--Person who needs to review your PR (Until we paid.)-->
 
 ## Remark
 <!--Further information about this PR-->
