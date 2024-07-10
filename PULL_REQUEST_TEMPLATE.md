@@ -13,13 +13,16 @@
 - [ ] (Should Be) I have NOT committed the modified environment/config file(s) to this PR.
 - [ ] (Backend) I have added the migration script(s).
 
-## [optional] Additional configuration/environment
+## Additional configuration/environment
 
-## [optional] Screenshot(s)
+## Screenshot(s)
 <!--Add your screenshot(s) here, caption for the image is recommended.-->
 
-## [optional] Test result
+## Test result
 <!--Add your test screenshot(s) here-->
 
-## [optional] Remark
+## Reviewer
+<!--Person who needs to review your PR (Unti we paid.)-->
+
+## Remark
 <!--Further information about this PR-->
